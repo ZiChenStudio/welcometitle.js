@@ -8,6 +8,20 @@
 
 这不是我的创意，只是我在他人的网页上看到这样的设计，但找不到这样的JavaScript组件，所以自己写了一个。
 
+## 怎么使用？
+
+选择你需要的版本，并复制到你的HTML文档的`<title>`标签下方。
+
+完整版
+```
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcomeTitle.js/dist/welcomeTitle.js"></script>
+```
+
+压缩版
+```
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcomeTitle.js/dist/welcomeTitle.min.js"></script>
+```
+
 ## 许可证
 
 [MIT](./LICENSE)

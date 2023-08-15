@@ -8,6 +8,20 @@ A JavaScript component that changes the title to welcome you when you leave or r
 
 This is not my creativity, it's just that I saw such a design on someone else's webpage, but couldn't find such a JavaScript component, so I wrote it myself.
 
+## How to use?
+
+Select the version you need and copy it under the `<title>` tag in your HTML document.
+
+full
+```
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcomeTitle.js/dist/welcomeTitle.js"></script>
+```
+
+min
+```
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcomeTitle.js/dist/welcomeTitle.min.js"></script>
+```
+
 ## LICENSE
 
 [MIT](./LICENSE)
