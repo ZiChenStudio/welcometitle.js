@@ -1,6 +1,6 @@
-# welcomeTitle.js
+# welcometitle.js
 
-[English](./README.md)|[简体中文](./README_zh-CN.md)
+[English](./README.md)|[简体中文](./doc/README_zh-CN.md)
 
 ## What is this?
 
@@ -14,12 +14,12 @@ Select the version you need and copy it under the `<title>` tag in your HTML doc
 
 full
 ```
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcomeTitle.js/dist/welcomeTitle.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.js"></script>
 ```
 
 min
 ```
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcomeTitle.js/dist/welcomeTitle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.min.js"></script>
 ```
 
 ## LICENSE
