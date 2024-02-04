@@ -14,12 +14,12 @@
 
 完整版
 ```
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.js" async></script>
 ```
 
 压缩版
 ```
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.min.js" async></script>
 ```
 
 ## 许可证
