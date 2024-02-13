@@ -14,12 +14,12 @@ Select the version you need and copy it under the `<title>` tag in your HTML doc
 
 full
 ```
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/zichenstudio/welcometitle.js/dist/welcometitle.js" async></script>
 ```
 
 min
 ```
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/welcometitle.js/dist/welcometitle.min.js" async></script>
+<script src="https://cdn.jsdelivr.net/gh/zichenstudio/welcometitle.js/dist/welcometitle.min.js" async></script>
 ```
 
 ## LICENSE

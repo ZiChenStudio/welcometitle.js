@@ -1,9 +1,9 @@
 /**
  * @file welcometitle.js JavaScript Library v1.0
- * @see github.com/ZiChenStudio/welcometitle.js
+ * @see github.com/zichenstudio/welcometitle.js
  *
  * @license MIT License
- * @see github.com/ZiChenStudio/welcometitle.js/blob/main/LICENSE
+ * @see github.com/zichenstudio/welcometitle.js/blob/main/LICENSE
  *
  * @date 2024-02-01（UTC）
  *
